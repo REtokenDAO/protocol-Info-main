@@ -1,0 +1,7 @@
+{
+	"cname": "balancer",
+	"description": "",
+	"path": "balancer",
+	"type": "snapshot",
+	"isEnabled": true
+}
